@@ -18,7 +18,7 @@ The Moms Verdict Engine is an AI-powered review intelligence system built for Mu
 
 ## Walkthrough
 
-> 📹 **[Insert your 3-minute Loom link here]**
+> 📹 **loom video : (https://www.loom.com/share/129dc2ebf88641ff880f532ea4bea443)**
 >
 > The walkthrough covers: running the eval suite, analyzing a live product with the CLI, and a demo of the Streamlit UI with the multilingual diaper dataset.
 
