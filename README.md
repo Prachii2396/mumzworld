@@ -12,7 +12,7 @@ The Moms Verdict Engine is an AI-powered review intelligence system built for Mu
 
 ## Prototype Access
 
-**GitHub:** https://github.com/adityas777/mumzworld-internship
+**GitHub:** (https://github.com/Prachii2396/mumzworld.git)
 
 ---
 
